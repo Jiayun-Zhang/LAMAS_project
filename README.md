@@ -7,7 +7,9 @@ pip install pygraphviz mesa matplotlib seaborn
 ```
 
 ## Instructions
-Open the `mesa_notebook.ipynb` notebook with jupyter and follow the instructions. 
+Open the `mesa_notebook.ipynb` notebook with jupyter and run it.
+Go to the 'Model Parameters' section to change the number of agents and switch between 
+the two variants. 
 
 ## Features
 - Variable number of blue- and brown-eyed islanders
